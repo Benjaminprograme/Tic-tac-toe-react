@@ -1,0 +1,9 @@
+.score,
+.scoreDivider {
+  color: #242424;
+  font-size: larger;
+}
+
+.scoreDivider {
+  margin: 0px 60px 0px 60px;
+}
